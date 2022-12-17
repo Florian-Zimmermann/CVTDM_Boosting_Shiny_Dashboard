@@ -1,6 +1,6 @@
-# CVTDM_Boosting_Shiny_Dashboard
+# CVTDM_RF_Shiny_Dashboard
 
-Here is the code for our Shinny application that predicts a customer based on the most accurate method : Boosting tree
+Here is the code for our Shinny application that predicts a customer based on the most accurate method : Random Forest
 
 This application works with the following data set :
 
